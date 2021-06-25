@@ -113,7 +113,7 @@
   "plot_desired_velocities":false,
   "plot_velocities":false,
   "plot_paths":false,
-  "plot_sensors":true,
+  "plot_sensors":false,
   "addper":4.0,
   "slowdown": 0.2,
   "sd_period": 3,
