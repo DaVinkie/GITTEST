@@ -1,0 +1,3 @@
+[submodule "cromosim"]
+	path = cromosim
+	url = git@github.com:sylvain-faure/cromosim.git
